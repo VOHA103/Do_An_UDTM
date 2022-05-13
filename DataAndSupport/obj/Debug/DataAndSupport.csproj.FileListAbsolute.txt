@@ -1,0 +1,14 @@
+D:\2021_2022\HK2_2021_2022\PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAn\DataAndSupport\obj\Debug\DataAndSupport.csproj.CoreCompileInputs.cache
+D:\2021_2022\HK2_2021_2022\PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAn\DataAndSupport\bin\Debug\DataAndSupport.exe.config
+D:\2021_2022\HK2_2021_2022\PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAn\DataAndSupport\bin\Debug\DataAndSupport.exe
+D:\2021_2022\HK2_2021_2022\PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAn\DataAndSupport\bin\Debug\DataAndSupport.pdb
+D:\2021_2022\HK2_2021_2022\PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAn\DataAndSupport\obj\Debug\DataAndSupport.exe
+D:\2021_2022\HK2_2021_2022\PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAn\DataAndSupport\obj\Debug\DataAndSupport.pdb
+D:\2021_2022\HK2_2021_2022\PhatTrienPhanMemVaUngDungThongMinh\DoAn\DoAn\DataAndSupport\obj\Debug\DataAndSupport.csproj.AssemblyReference.cache
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\bin\Debug\DataAndSupport.exe.config
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\bin\Debug\DataAndSupport.exe
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\bin\Debug\DataAndSupport.pdb
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\obj\Debug\DataAndSupport.csproj.AssemblyReference.cache
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\obj\Debug\DataAndSupport.csproj.CoreCompileInputs.cache
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\obj\Debug\DataAndSupport.exe
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\obj\Debug\DataAndSupport.pdb
