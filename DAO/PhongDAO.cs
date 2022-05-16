@@ -7,6 +7,7 @@ using DataAndSupport;
 using System.Data;
 using DevExpress.XtraGrid;
 using DevExpress.XtraEditors;
+using DevExpress.XtraEditors.Repository;
 
 namespace DAO
 {
@@ -33,7 +34,7 @@ namespace DAO
           var lst = (from p in db.PHONGs select p).ToList();
            gv.DataSource = Support.ToDataTable<PHONG>(lst);
         }
-        public int insert(int ID_LOAIPHONG, string TENPHONG, string DIACHI, int _status)
+        public int insert(int ID_LOAIPHONG, string TENPHONG, string DIACHI, bool _status)
         {
             try
             {
@@ -54,7 +55,7 @@ namespace DAO
             }
 
         }
-        public int update(int ID_PHONG, int ID_LOAIPHONG, string TENPHONG, string DIACHI, int _status)
+        public int update(int ID_PHONG, int ID_LOAIPHONG, string TENPHONG, string DIACHI, bool _status)
         {
             var p = db.PHONGs.FirstOrDefault(x => x.ID_PHONG == ID_PHONG);
 
@@ -76,6 +77,19 @@ namespace DAO
             }
 
         }
+        public void getDataRoom(RepositoryItemLookUpEdit lk)
+        {
+            lk.DataSource = from lkh in db.PHONGs select new
+            {
+                lkh.ID_PHONG,
+                lkh.ID_LOAIPHONG,
+                lkh.TENPHONG,
+                lkh.DIACHI,
+                lkh._status,
+            };
+            lk.DisplayMember = "TENPHONG";
+            lk.ValueMember = "ID_PHONG";
+        }
         public int delete(int ID_PHONG)
         {
             try
@@ -84,7 +98,7 @@ namespace DAO
                 if (p == null)
                     return -1;
                 //db.PHONGs.DeleteOnSubmit(kh);
-                p._status = 0;
+                p._status = false;
                 db.SubmitChanges();
                 return 1;
             }

@@ -74,13 +74,25 @@ namespace DoAn
 
         private void btnDichVu_Click(object sender, EventArgs e)
         {
-            openUC(typeof(uc_service));
+            //openUC(typeof(uc_service));
 
         }
 
         private void accordionControlElement9_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void accordionControlElement10_Click(object sender, EventArgs e)
+        {
+            openUC(typeof(uc_Admin));
+
+        }
+
+        private void accordionControlElement5_Click(object sender, EventArgs e)
+        {
+            openUC(typeof(uc_Bill));
+
         }
     }
 }

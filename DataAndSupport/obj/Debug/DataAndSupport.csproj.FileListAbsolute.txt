@@ -12,3 +12,16 @@ D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDung
 D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\obj\Debug\DataAndSupport.csproj.CoreCompileInputs.cache
 D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\obj\Debug\DataAndSupport.exe
 D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\obj\Debug\DataAndSupport.pdb
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\bin\Debug\DataAndSupport.exe.config
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\bin\Debug\DataAndSupport.exe
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\bin\Debug\DataAndSupport.pdb
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\obj\Debug\DataAndSupport.csproj.CoreCompileInputs.cache
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\obj\Debug\DataAndSupport.exe
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DataAndSupport\obj\Debug\DataAndSupport.pdb
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DataAndSupport\bin\Debug\DataAndSupport.exe.config
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DataAndSupport\bin\Debug\DataAndSupport.exe
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DataAndSupport\bin\Debug\DataAndSupport.pdb
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DataAndSupport\obj\Debug\DataAndSupport.csproj.AssemblyReference.cache
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DataAndSupport\obj\Debug\DataAndSupport.csproj.CoreCompileInputs.cache
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DataAndSupport\obj\Debug\DataAndSupport.exe
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DataAndSupport\obj\Debug\DataAndSupport.pdb

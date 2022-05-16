@@ -178,3 +178,183 @@ D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDung
 D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DAO\obj\Debug\DAO.exe
 D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\UDTM\PhatTrienPhanMemUngDungThongMinh\DAO\obj\Debug\DAO.pdb
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\obj\Debug\DAO.exe
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\obj\Debug\DAO.pdb
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DAO.exe.config
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DAO.exe
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DAO.pdb
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DataAndSupport.exe
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DataAndSupport.pdb
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DataAndSupport.exe.config
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Github\PhatTrienPhanMemUngDungThongMinh\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DAO.exe.config
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DAO.exe
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DAO.pdb
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DataAndSupport.exe
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Data.v19.2.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Images.v19.2.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DataAndSupport.pdb
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DataAndSupport.exe.config
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Data.v19.2.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\obj\Debug\DAO.exe
+D:\2021-2022\PhatTrienPhanMemVaUngDungThongMinh\git\New folder\Do_An_UDTM\DAO\obj\Debug\DAO.pdb

@@ -37,10 +37,10 @@ namespace DAO
         }
         public void getData(GridControl gv)
         {
-            //var lst = (from p in db.LOAI_PHONGs select p).ToList();
-          //  gv.DataSource = Support.ToDataTable<LOAI_PHONG>(lst);
+            var lst = (from p in db.LOAI_PHONGs select p).ToList();
+            gv.DataSource = Support.ToDataTable<LOAI_PHONG>(lst);
         }
-        public int insert( string TENLOAI, double GIAPHONG, int _status)
+        public int insert( string TENLOAI, double GIAPHONG, bool _status)
         {
             try
             {
@@ -60,7 +60,7 @@ namespace DAO
             }
 
         }
-        public int update(int ID_LOAIPHONG, string TENLOAI, double GIAPHONG, int _status)
+        public int update(int ID_LOAIPHONG, string TENLOAI, double GIAPHONG, bool _status)
         {
             var p = db.LOAI_PHONGs.FirstOrDefault(x => x.ID_LOAIPHONG == ID_LOAIPHONG);
 
@@ -88,7 +88,7 @@ namespace DAO
                 if (p == null)
                     return -1;
                 //db.PHONGs.DeleteOnSubmit(kh);
-                p._status = 0;
+                p._status = false;
                 db.SubmitChanges();
                 return 1;
             }

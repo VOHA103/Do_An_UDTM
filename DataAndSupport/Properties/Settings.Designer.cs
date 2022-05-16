@@ -26,8 +26,18 @@ namespace DataAndSupport.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.\\SQLEXPRESS;Initial Catalog=QL_PHONG_TRO;Persist Security Info=True;" +
-            "User ID=sa;Password=123")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.;Initial Catalog=QL_PHONG_TRO;Integrated Security=True")]
+        public string QL_PHONG_TROConnectionString1 {
+            get {
+                return ((string)(this["QL_PHONG_TROConnectionString1"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.;Initial Catalog=QL_PHONG_TRO;Persist Security Info=True;User ID=sa;" +
+            "Password=123")]
         public string QL_PHONG_TROConnectionString {
             get {
                 return ((string)(this["QL_PHONG_TROConnectionString"]));
@@ -37,10 +47,22 @@ namespace DataAndSupport.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.;Initial Catalog=QL_PHONG_TRO;Integrated Security=True")]
-        public string QL_PHONG_TROConnectionString1 {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LETHANHTHAI\\SQLEXPRESS;Initial Catalog=QL_PHONG_TRO;Persist Security " +
+            "Info=True;User ID=sa;Password=123")]
+        public string QL_PHONG_TROConnectionString2 {
             get {
-                return ((string)(this["QL_PHONG_TROConnectionString1"]));
+                return ((string)(this["QL_PHONG_TROConnectionString2"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-QQCBI9B\\SQLEXPRESS;Initial Catalog=QL_PHONG_TRO;Integrated Se" +
+            "curity=True")]
+        public string QL_PHONG_TROConnectionString3 {
+            get {
+                return ((string)(this["QL_PHONG_TROConnectionString3"]));
             }
         }
     }

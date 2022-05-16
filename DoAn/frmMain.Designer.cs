@@ -41,6 +41,7 @@ namespace DoAn
             this.accordionControlElement5 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement2 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement6 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement10 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement7 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement8 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement9 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
@@ -58,10 +59,10 @@ namespace DoAn
             // FormContainer1
             // 
             this.FormContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.FormContainer1.Location = new System.Drawing.Point(346, 42);
+            this.FormContainer1.Location = new System.Drawing.Point(346, 40);
             this.FormContainer1.Margin = new System.Windows.Forms.Padding(4);
             this.FormContainer1.Name = "FormContainer1";
-            this.FormContainer1.Size = new System.Drawing.Size(1044, 763);
+            this.FormContainer1.Size = new System.Drawing.Size(1044, 765);
             this.FormContainer1.TabIndex = 0;
             // 
             // accordionControl1
@@ -71,11 +72,11 @@ namespace DoAn
             this.accordionControlElement1,
             this.accordionControlElement2,
             this.accordionControlElement3});
-            this.accordionControl1.Location = new System.Drawing.Point(0, 42);
+            this.accordionControl1.Location = new System.Drawing.Point(0, 40);
             this.accordionControl1.Margin = new System.Windows.Forms.Padding(4);
             this.accordionControl1.Name = "accordionControl1";
             this.accordionControl1.ScrollBarMode = DevExpress.XtraBars.Navigation.ScrollBarMode.Touch;
-            this.accordionControl1.Size = new System.Drawing.Size(346, 763);
+            this.accordionControl1.Size = new System.Drawing.Size(346, 765);
             this.accordionControl1.TabIndex = 1;
             this.accordionControl1.ViewType = DevExpress.XtraBars.Navigation.AccordionControlViewType.HamburgerMenu;
             // 
@@ -91,6 +92,7 @@ namespace DoAn
             this.btnDichVu,
             this.accordionControlElement4,
             this.accordionControlElement5});
+            this.accordionControlElement1.Expanded = true;
             this.accordionControlElement1.HeaderTemplate.AddRange(new DevExpress.XtraBars.Navigation.HeaderElementInfo[] {
             new DevExpress.XtraBars.Navigation.HeaderElementInfo(DevExpress.XtraBars.Navigation.HeaderElementType.Text),
             new DevExpress.XtraBars.Navigation.HeaderElementInfo(DevExpress.XtraBars.Navigation.HeaderElementType.HeaderControl),
@@ -146,6 +148,7 @@ namespace DoAn
             this.accordionControlElement5.Name = "accordionControlElement5";
             this.accordionControlElement5.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
             this.accordionControlElement5.Text = "Hóa đơn";
+            this.accordionControlElement5.Click += new System.EventHandler(this.accordionControlElement5_Click);
             // 
             // accordionControlElement2
             // 
@@ -155,6 +158,7 @@ namespace DoAn
             this.accordionControlElement2.Appearance.Normal.Options.UseForeColor = true;
             this.accordionControlElement2.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
             this.accordionControlElement6,
+            this.accordionControlElement10,
             this.accordionControlElement7,
             this.accordionControlElement8,
             this.accordionControlElement9});
@@ -176,6 +180,16 @@ namespace DoAn
             this.accordionControlElement6.Name = "accordionControlElement6";
             this.accordionControlElement6.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
             this.accordionControlElement6.Text = "Đổi mật khẩu";
+            // 
+            // accordionControlElement10
+            // 
+            this.accordionControlElement10.Appearance.Normal.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.accordionControlElement10.Appearance.Normal.Options.UseFont = true;
+            this.accordionControlElement10.ImageOptions.Image = global::DoAn.Properties.Resources.bouser_32x32;
+            this.accordionControlElement10.Name = "accordionControlElement10";
+            this.accordionControlElement10.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement10.Text = "Quản lý";
+            this.accordionControlElement10.Click += new System.EventHandler(this.accordionControlElement10_Click);
             // 
             // accordionControlElement7
             // 
@@ -229,7 +243,7 @@ namespace DoAn
             this.fluentDesignFormControl1.Manager = this.fluentFormDefaultManager1;
             this.fluentDesignFormControl1.Margin = new System.Windows.Forms.Padding(4);
             this.fluentDesignFormControl1.Name = "fluentDesignFormControl1";
-            this.fluentDesignFormControl1.Size = new System.Drawing.Size(1390, 42);
+            this.fluentDesignFormControl1.Size = new System.Drawing.Size(1390, 40);
             this.fluentDesignFormControl1.TabIndex = 2;
             this.fluentDesignFormControl1.TabStop = false;
             this.fluentDesignFormControl1.TitleItemLinks.Add(this.lbTrangchu);
@@ -301,5 +315,6 @@ namespace DoAn
         private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement8;
         private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement9;
         private DevExpress.Utils.Behaviors.BehaviorManager behaviorManager1;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement10;
     }
 }

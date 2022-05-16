@@ -1,4 +1,5 @@
 ﻿using DataAndSupport;
+using DevExpress.XtraEditors.Repository;
 using DevExpress.XtraGrid;
 using System;
 using System.Collections.Generic;
@@ -31,16 +32,23 @@ public    class LoaiDichVuDao
             var lst = (from p in db.LOAI_DICH_VUs select p).ToList();
             gv.DataSource = Support.ToDataTable<LOAI_DICH_VU>(lst);
         }
-        public int insert(int ID_LOAIDICHVU, string TENDICHVU, int DONGIA, int _status)
+
+        public void getDataLoaiDV(RepositoryItemLookUpEdit lk)
+        {
+            lk.DataSource = from lkh in db.LOAI_DICH_VUs select lkh;
+            lk.DisplayMember = "TENDICHVU";
+            lk.ValueMember = "ID_LOAIDICHVU";
+        }
+
+        public int insert(string TENDICHVU, int DONGIA, bool _status)
         {
             try
             {
                 db.LOAI_DICH_VUs.InsertOnSubmit(new LOAI_DICH_VU()
                 {
-                    ID_LOAIDICHVU = ID_LOAIDICHVU,
                     TENDICHVU = TENDICHVU,
                     DONGIA = DONGIA,
-                    _status = _status,
+                //    _status = _status,
                 });
                 db.SubmitChanges();
                 return 1;
@@ -52,7 +60,7 @@ public    class LoaiDichVuDao
             }
 
         }
-        public int update(int ID_LOAIDICHVU, string TENDICHVU, int DONGIA, int _status)
+        public int update(int ID_LOAIDICHVU, string TENDICHVU, int DONGIA, bool _status)
         {
             var p = db.LOAI_DICH_VUs.FirstOrDefault(x => x.ID_LOAIDICHVU == ID_LOAIDICHVU);
 
@@ -62,7 +70,7 @@ public    class LoaiDichVuDao
                     return -1;
                 p.TENDICHVU = TENDICHVU;
                 p.DONGIA = DONGIA;
-                p._status = _status;
+              //  p._status = _status;
                 db.SubmitChanges();
                 return 1;
             }
@@ -80,7 +88,7 @@ public    class LoaiDichVuDao
                 if (p == null)
                     return -1;
                 //db.PHONGs.DeleteOnSubmit(kh);
-                p._status = 0;
+            //    p._status = false;
                 db.SubmitChanges();
                 return 1;
             }

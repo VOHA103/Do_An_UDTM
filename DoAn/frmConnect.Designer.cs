@@ -53,7 +53,7 @@ namespace DoAn
             this.cbbDatabase.Name = "cbbDatabase";
             this.cbbDatabase.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.cbbDatabase.Size = new System.Drawing.Size(608, 29);
+            this.cbbDatabase.Size = new System.Drawing.Size(608, 28);
             this.cbbDatabase.TabIndex = 22;
             // 
             // cbbServer
@@ -62,7 +62,7 @@ namespace DoAn
             this.cbbServer.Name = "cbbServer";
             this.cbbServer.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.cbbServer.Size = new System.Drawing.Size(608, 29);
+            this.cbbServer.Size = new System.Drawing.Size(608, 28);
             this.cbbServer.TabIndex = 21;
             // 
             // separatorControl1
@@ -153,7 +153,7 @@ namespace DoAn
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(661, 462);
+            this.ClientSize = new System.Drawing.Size(661, 464);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);

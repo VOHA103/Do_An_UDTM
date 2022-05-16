@@ -59,6 +59,8 @@ namespace DoAn.UC
             this.gridColumn5 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn6 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn7 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.repositoryItemCheckEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit();
+            this.repositoryItemRadioGroup1 = new DevExpress.XtraEditors.Repository.RepositoryItemRadioGroup();
             this.xtraTabPage2 = new DevExpress.XtraTab.XtraTabPage();
             this.gcTypeRoom = new DevExpress.XtraGrid.GridControl();
             this.gvTypeRoom = new DevExpress.XtraGrid.Views.Grid.GridView();
@@ -75,6 +77,8 @@ namespace DoAn.UC
             ((System.ComponentModel.ISupportInitialize)(this.gcRoom)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvRoom)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.lstRoomType)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemCheckEdit1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemRadioGroup1)).BeginInit();
             this.xtraTabPage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gcTypeRoom)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvTypeRoom)).BeginInit();
@@ -221,6 +225,7 @@ namespace DoAn.UC
             this.barDockControlTop.Manager = this.barManager1;
             this.barDockControlTop.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.barDockControlTop.Size = new System.Drawing.Size(1020, 40);
+            this.barDockControlTop.Click += new System.EventHandler(this.barDockControlTop_Click);
             // 
             // barDockControlBottom
             // 
@@ -230,6 +235,7 @@ namespace DoAn.UC
             this.barDockControlBottom.Manager = this.barManager1;
             this.barDockControlBottom.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.barDockControlBottom.Size = new System.Drawing.Size(1020, 24);
+            this.barDockControlBottom.Click += new System.EventHandler(this.barDockControlBottom_Click);
             // 
             // barDockControlLeft
             // 
@@ -239,6 +245,7 @@ namespace DoAn.UC
             this.barDockControlLeft.Manager = this.barManager1;
             this.barDockControlLeft.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.barDockControlLeft.Size = new System.Drawing.Size(0, 617);
+            this.barDockControlLeft.Click += new System.EventHandler(this.barDockControlLeft_Click);
             // 
             // barDockControlRight
             // 
@@ -248,6 +255,7 @@ namespace DoAn.UC
             this.barDockControlRight.Manager = this.barManager1;
             this.barDockControlRight.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.barDockControlRight.Size = new System.Drawing.Size(0, 617);
+            this.barDockControlRight.Click += new System.EventHandler(this.barDockControlRight_Click);
             // 
             // barButtonItem1
             // 
@@ -258,30 +266,35 @@ namespace DoAn.UC
             this.barButtonItem1.Name = "barButtonItem1";
             this.barButtonItem1.PaintStyle = DevExpress.XtraBars.BarItemPaintStyle.CaptionGlyph;
             this.barButtonItem1.Size = new System.Drawing.Size(70, 50);
+            this.barButtonItem1.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem1_ItemClick);
             // 
             // barButtonItem2
             // 
             this.barButtonItem2.Caption = "Xuất Excel";
             this.barButtonItem2.Id = 1;
             this.barButtonItem2.Name = "barButtonItem2";
+            this.barButtonItem2.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem2_ItemClick);
             // 
             // barButtonItem3
             // 
             this.barButtonItem3.Caption = "Xuất Word";
             this.barButtonItem3.Id = 2;
             this.barButtonItem3.Name = "barButtonItem3";
+            this.barButtonItem3.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem3_ItemClick);
             // 
             // barButtonItem4
             // 
             this.barButtonItem4.Caption = "Xuất PDF";
             this.barButtonItem4.Id = 3;
             this.barButtonItem4.Name = "barButtonItem4";
+            this.barButtonItem4.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem4_ItemClick);
             // 
             // barButtonItem5
             // 
             this.barButtonItem5.Caption = "Đóng";
             this.barButtonItem5.Id = 4;
             this.barButtonItem5.Name = "barButtonItem5";
+            this.barButtonItem5.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem5_ItemClick);
             // 
             // xtraTabControl1
             // 
@@ -308,6 +321,7 @@ namespace DoAn.UC
             this.xtraTabPage1.Name = "xtraTabPage1";
             this.xtraTabPage1.Size = new System.Drawing.Size(1013, 581);
             this.xtraTabPage1.Text = "Phòng";
+            this.xtraTabPage1.Paint += new System.Windows.Forms.PaintEventHandler(this.xtraTabPage1_Paint);
             // 
             // gcRoom
             // 
@@ -319,7 +333,9 @@ namespace DoAn.UC
             this.gcRoom.MenuManager = this.barManager1;
             this.gcRoom.Name = "gcRoom";
             this.gcRoom.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
-            this.lstRoomType});
+            this.lstRoomType,
+            this.repositoryItemCheckEdit1,
+            this.repositoryItemRadioGroup1});
             this.gcRoom.Size = new System.Drawing.Size(1013, 581);
             this.gcRoom.TabIndex = 0;
             this.gcRoom.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
@@ -403,6 +419,15 @@ namespace DoAn.UC
             this.gridColumn7.VisibleIndex = 4;
             this.gridColumn7.Width = 106;
             // 
+            // repositoryItemCheckEdit1
+            // 
+            this.repositoryItemCheckEdit1.AutoHeight = false;
+            this.repositoryItemCheckEdit1.Name = "repositoryItemCheckEdit1";
+            // 
+            // repositoryItemRadioGroup1
+            // 
+            this.repositoryItemRadioGroup1.Name = "repositoryItemRadioGroup1";
+            // 
             // xtraTabPage2
             // 
             this.xtraTabPage2.Controls.Add(this.gcTypeRoom);
@@ -410,6 +435,7 @@ namespace DoAn.UC
             this.xtraTabPage2.Name = "xtraTabPage2";
             this.xtraTabPage2.Size = new System.Drawing.Size(1013, 581);
             this.xtraTabPage2.Text = "Loại Phòng";
+            this.xtraTabPage2.Paint += new System.Windows.Forms.PaintEventHandler(this.xtraTabPage2_Paint);
             // 
             // gcTypeRoom
             // 
@@ -521,6 +547,8 @@ namespace DoAn.UC
             ((System.ComponentModel.ISupportInitialize)(this.gcRoom)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvRoom)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.lstRoomType)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemCheckEdit1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemRadioGroup1)).EndInit();
             this.xtraTabPage2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.gcTypeRoom)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvTypeRoom)).EndInit();
@@ -570,5 +598,7 @@ namespace DoAn.UC
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn5;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn6;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn7;
+        private DevExpress.XtraEditors.Repository.RepositoryItemRadioGroup repositoryItemRadioGroup1;
+        private DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit repositoryItemCheckEdit1;
     }
 }

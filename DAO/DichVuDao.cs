@@ -8,16 +8,16 @@ using System.Threading.Tasks;
 
 namespace DAO
 {
-     public class DichVuDao
+    public class DichVuDao
     {
         QL_PhongTroDataContext db = new QL_PhongTroDataContext();
-        private static PhongDAO instances;
-        public static PhongDAO Instances
+        private static DichVuDao instances;
+        public static DichVuDao Instances
         {
             get
             {
                 if (instances == null)
-                    instances = new PhongDAO();
+                    instances = new DichVuDao();
                 return instances;
             }
 
@@ -28,19 +28,20 @@ namespace DAO
         }
         public void getDataGV(GridControl gv)
         {
-            var lst = (from p in db.PHONGs select p).ToList();
-            gv.DataSource = Support.ToDataTable<PHONG>(lst);
+            var lst = (from p in db.DICHVU_THEMs select p).ToList();
+            gv.DataSource = Support.ToDataTable<DICHVU_THEM>(lst);
         }
-        public int insert(int ID_LOAIPHONG, string TENPHONG, string DIACHI, int _status)
+        public int insert(int ID_LOAIDICHVU,int ID_PHONG, DateTime TU_NGAY,DateTime DEN_NGAY,double TONGTIEN)
         {
             try
             {
-                db.PHONGs.InsertOnSubmit(new PHONG()
+                db.DICHVU_THEMs.InsertOnSubmit(new DICHVU_THEM()
                 {
-                    ID_LOAIPHONG = ID_LOAIPHONG,
-                    TENPHONG = TENPHONG,
-                    DIACHI = DIACHI,
-                    _status = _status,
+                    ID_LOAIDICHVU=ID_LOAIDICHVU,
+                    ID_PHONG=ID_PHONG,
+                    TU_NGAY=TU_NGAY,
+                    DEN_NGAY=DEN_NGAY,
+                    TONGTIEN=TONGTIEN,
                 });
                 db.SubmitChanges();
                 return 1;
@@ -52,19 +53,17 @@ namespace DAO
             }
 
         }
-        public int update(int ID_PHONG, int ID_LOAIPHONG, string TENPHONG, string DIACHI, int _status)
+        public int update(int ID_DVT, int ID_LOAIDICHVU, int ID_PHONG, DateTime TU_NGAY, DateTime DEN_NGAY, double TONGTIEN)
         {
-            var p = db.PHONGs.FirstOrDefault(x => x.ID_PHONG == ID_PHONG);
+            var p = db.DICHVU_THEMs.FirstOrDefault(x => x.ID_DVT == ID_DVT && x.ID_PHONG == ID_PHONG && x.ID_LOAIDICHVU == ID_LOAIDICHVU);
 
             try
             {
                 if (p == null)
                     return -1;
-                p.TENPHONG = TENPHONG;
-                p.DIACHI = DIACHI;
-                p._status = _status;
-                p.LOAI_PHONG = db.LOAI_PHONGs.Single(x => x.ID_LOAIPHONG == ID_LOAIPHONG);
-                p.ID_LOAIPHONG = ID_LOAIPHONG;
+                    p.TU_NGAY = TU_NGAY;
+                    p.DEN_NGAY = DEN_NGAY;
+                    p.TONGTIEN = TONGTIEN;
                 db.SubmitChanges();
                 return 1;
             }
@@ -74,15 +73,15 @@ namespace DAO
             }
 
         }
-        public int delete(int ID_PHONG)
+        public int delete(int ID_DVT)
         {
             try
             {
-                var p = db.PHONGs.FirstOrDefault(x => x.ID_PHONG == ID_PHONG);
+                var p = db.DICHVU_THEMs.FirstOrDefault(x => x.ID_DVT == ID_DVT);
                 if (p == null)
                     return -1;
                 //db.PHONGs.DeleteOnSubmit(kh);
-                p._status = 0;
+
                 db.SubmitChanges();
                 return 1;
             }
@@ -92,6 +91,5 @@ namespace DAO
             }
 
         }
-    
-}
+    }
 }

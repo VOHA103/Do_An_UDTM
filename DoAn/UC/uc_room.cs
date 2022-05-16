@@ -164,7 +164,7 @@ namespace DoAn.UC
                         PhongDAO.Instances.insert(int.Parse(gvRoom.GetRowCellValue(e.RowHandle, "ID_LOAIPHONG").ToString().Trim())
                             , gvRoom.GetRowCellValue(e.RowHandle, "TENPHONG").ToString().Trim()
                             , gvRoom.GetRowCellValue(e.RowHandle, "DIACHI").ToString()
-                            , int.Parse(gvRoom.GetRowCellValue(e.RowHandle, "_status").ToString().Trim()));
+                            , bool.Parse(gvRoom.GetRowCellValue(e.RowHandle, "_status").ToString().Trim()));
                         XtraMessageBox.Show("Thêm thành công", "Thông báo", DevExpress.Utils.DefaultBoolean.True);
                         PhongDAO.Instances.getDataGV(gcRoom);
 
@@ -183,7 +183,7 @@ namespace DoAn.UC
                             , int.Parse(gvRoom.GetRowCellValue(e.RowHandle, "ID_LOAIPHONG").ToString().Trim())
                             , gvRoom.GetRowCellValue(e.RowHandle, "TENPHONG").ToString().Trim()
                             , gvRoom.GetRowCellValue(e.RowHandle, "DIACHI").ToString()
-                            , int.Parse(gvRoom.GetRowCellValue(e.RowHandle, "_status").ToString().Trim()));
+                            , bool.Parse(gvRoom.GetRowCellValue(e.RowHandle, "_status").ToString().Trim()));
                         XtraMessageBox.Show("Sửa thành công", "Thông báo", DevExpress.Utils.DefaultBoolean.True);
                         PhongDAO.Instances.getDataGV(gcRoom);
                     }
@@ -252,7 +252,7 @@ namespace DoAn.UC
                         //int ID_PHONG, int ID_LOAIPHONG, string TENPHONG, string DIACHI, int _status
                         LoaiPhongDAO.Instances.insert(gvTypeRoom.GetRowCellValue(e.RowHandle, "TENLOAI").ToString().Trim()
                             , double.Parse(gvTypeRoom.GetRowCellValue(e.RowHandle, "GIAPHONG").ToString())
-                            , int.Parse(gvTypeRoom.GetRowCellValue(e.RowHandle, "_status").ToString().Trim()));
+                            , bool.Parse(gvTypeRoom.GetRowCellValue(e.RowHandle, "_status").ToString().Trim()));
                         XtraMessageBox.Show("Thêm thành công", "Thông báo", DevExpress.Utils.DefaultBoolean.True);
                         LoaiPhongDAO.Instances.getData(gcTypeRoom);
 
@@ -270,7 +270,7 @@ namespace DoAn.UC
                         LoaiPhongDAO.Instances.update(int.Parse(gvTypeRoom.GetRowCellValue(e.RowHandle, "ID_LOAIPHONG").ToString().Trim())
                             , gvTypeRoom.GetRowCellValue(e.RowHandle, "TENLOAI").ToString().Trim()
                             , double.Parse(gvTypeRoom.GetRowCellValue(e.RowHandle, "GIAPHONG").ToString().Trim())
-                            , int.Parse(gvTypeRoom.GetRowCellValue(e.RowHandle, "_status").ToString().Trim()));
+                            , bool.Parse(gvTypeRoom.GetRowCellValue(e.RowHandle, "_status").ToString().Trim()));
                         XtraMessageBox.Show("Sửa thành công", "Thông báo", DevExpress.Utils.DefaultBoolean.True);
                         LoaiPhongDAO.Instances.getData(gcTypeRoom);
                     }
@@ -321,6 +321,61 @@ namespace DoAn.UC
         }
 
         private void gcTypeRoom_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void barDockControlTop_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void barDockControlBottom_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void barDockControlLeft_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void barDockControlRight_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void barButtonItem1_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+
+        }
+
+        private void barButtonItem2_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+
+        }
+
+        private void barButtonItem3_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+
+        }
+
+        private void barButtonItem4_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+
+        }
+
+        private void barButtonItem5_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+
+        }
+
+        private void xtraTabPage1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void xtraTabPage2_Paint(object sender, PaintEventArgs e)
         {
 
         }
